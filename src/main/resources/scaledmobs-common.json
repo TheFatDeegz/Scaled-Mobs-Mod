@@ -1,0 +1,29 @@
+{
+  "spawnConfig": {
+    "scaleNaturallySpawned": true,
+    "scaleTriggerSpawned": true,
+    "scaleArtificiallySpawned": true,
+    "scaleManuallySpawned": true,
+    "scalePhantoms": true
+  },
+
+  "blacklistedEntities": [ ],
+
+  "defaultSettings": {
+    "shouldScale": "false"
+  },
+
+  "entitySettings": [ ],
+
+  "classSettings": {
+    "passive": {
+      "shouldScale": "false"
+    },
+    "neutral": {
+      "shouldScale": "false"
+    },
+    "hostile": {
+      "shouldScale": "false"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "spawnConfig": {
+    "scaleNaturallySpawned": false,
+    "scaleTriggerSpawned": false,
+    "scaleArtificiallySpawned": false,
+    "scaleManuallySpawned": false,
+    "scalePhantoms": false
+  }
+}

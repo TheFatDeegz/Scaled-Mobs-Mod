@@ -1,0 +1,18 @@
+{
+  "spawnConfig": {
+    "scaleNaturallySpawned": true,
+    "scaleTriggerSpawned": true,
+    "scaleArtificiallySpawned": true,
+    "scaleManuallySpawned": true,
+    "scalePhantoms": true
+  },
+
+  "classSettings": {
+    "hostile": {
+      "shouldScale": true,
+      "shouldScaleHealth": true,
+      "shouldScaleAttack": true,
+      "shouldScaleView": true
+    }
+  }
+}

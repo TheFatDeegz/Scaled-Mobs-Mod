@@ -1,0 +1,23 @@
+{
+  "spawnConfig": {
+    "scaleNaturallySpawned": true,
+    "scaleTriggerSpawned": true,
+    "scaleArtificiallySpawned": true,
+    "scaleManuallySpawned": true,
+    "scalePhantoms": false
+  },
+
+  "classSettings": {
+    "passive": {
+      "creatures": {
+        "shouldScale": "random"
+      },
+      "rideable": {
+        "shouldScale": "random"
+      },
+      "tameable": {
+        "shouldScale": "random"
+      }
+    }
+  }
+}
