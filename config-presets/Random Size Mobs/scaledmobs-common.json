@@ -8,7 +8,7 @@
   },
 
   "defaultSettings": {
-    "shouldScale": true,
+    "shouldScale": "random",
     "shouldScaleHealth": true,
     "shouldScaleAttack": true,
     "shouldScaleView": true
